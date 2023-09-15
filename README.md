@@ -11,7 +11,7 @@ This is a simple traffic light simulation project created using HTML, CSS, and J
 
 ## Demo
 
-You can view a live demo of this project here: [Traffic Light Demo](#insert-link-here)
+You can view a live demo of this project here: [Traffic Light Demo](https://vaibhavupadhyayy.github.io/TrafficLight/)
 
 ## Features
 
